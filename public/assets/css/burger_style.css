@@ -1,0 +1,49 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #e9d5ba;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: #E1841D;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  h2 {
+    text-align: center;
+   font-family: 'Fontdiner Swanky', cursive;
+   font-size: 40px;
+   margin: 50px;
+}
+
+#burgersToEat {
+    padding: 2px;
+    margin: 2px;
+    background: #FEB31A;
+}
+
+#ca{
+    background-color: aliceblue;
+}
+
+#burgersYouAte{
+    padding: 1px;
+    margin: 1px;
+    background-color: #983530;
+}
+
+body {
+  background-image: url("../img/burgersbackground.jpg");
+}
+#BurgerSubmit{ text-align: center;
+  vertical-align: middle;
+}
