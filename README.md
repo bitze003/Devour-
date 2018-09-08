@@ -4,10 +4,10 @@
 
 Overview:
 <br><li>This app allows users to input the names of burgers they'd like to eat.
-<br>Whenever a user submits a burger's name, the app places the burger in the "Available" section.
-<br>Each burger in the waiting section has a DEVOUR button.
-<br>When the user clicks it, the burger has been devoured and moves to the "Devoured" section.
-<br>The app stores every burger in a database, whether devoured or not.
+<br><li>Whenever a user submits a burger's name, the app places the burger in the "Available" section.
+<br><li>Each burger in the waiting section has a DEVOUR button.
+<br><li>When the user clicks it, the burger has been devoured and moves to the "Devoured" section.
+<br><li>The app stores every burger in a database, whether devoured or not.
 
 Link:
 https://powerful-refuge-94319.herokuapp.com/
